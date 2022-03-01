@@ -1,0 +1,218 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>All ordinances and orders for the better observation of the Lords-Day and the fast 9. Decemb. 1646. ordered &amp;c. that the ordinances for the better observation of the publick dayes of fast and humiliation and for the better observation of the Lords-Day be printed together ...</title>
+            <author>England and Wales. Laws, statutes, etc.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09037</idno>
+            <idno type="STC">Wing E1199AA</idno>
+            <idno type="STC">ESTC R210501</idno>
+            <idno type="EEBO-CITATION">62369214</idno>
+            <idno type="OCLC">ocm 62369214</idno>
+            <idno type="VID">187891</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09037)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187891)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2848:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>All ordinances and orders for the better observation of the Lords-Day and the fast 9. Decemb. 1646. ordered &amp;c. that the ordinances for the better observation of the publick dayes of fast and humiliation and for the better observation of the Lords-Day be printed together ...</title>
+                  <author>England and Wales. Laws, statutes, etc.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 13 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edw. Husband, Printer to the Honourable House of Commons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: "Hen. Elsynge, Cler. Parl. Dom. Com."</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fasts and feasts --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1625-1649 --  Sources.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:187891:1"/>
+            <pb facs="tcp:187891:1"/>
+            <pb facs="tcp:187891:2"/>
+            <pb facs="tcp:187891:2"/>
+            <p>ALL ORDINANCES AND ORDERS, For the better obſervation of the LORDS-DAY, and the FAST.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>9. Decemb. 1646.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered <hi>&amp;c.</hi> That the Ordinances for the better Obſer<g ref="char:EOLhyphen"/>vation of the publick dayes of Faſt and Humiliation and for the better Obſervation of the Lords-Day be Printed together, And that it be referred to the Care of the Knights and Burgeſſes of the ſeverall Counties, Cities, and Burroughs, to ſend downe a ſufficient number of Copies, of them ſo Prin<g ref="char:EOLhyphen"/>ted, to the ſeverall and Reſpective Committees to be diſtribu<g ref="char:EOLhyphen"/>ted, and diſperſed to the ſeverall Pariſhes, and the ſeverall and reſpective Miniſters, are hereby enjoyned and required, the Lords day immediatly before every day of publick Humi<g ref="char:EOLhyphen"/>liation, to give notice of the ſaid day to the Congregation aſ<g ref="char:EOLhyphen"/>ſembled, and to reade unto them theſe Ordinances for the bet<g ref="char:EOLhyphen"/>ter obſervation of the Lords-day, and the dayes appointed for publick Humiliation. And that the Juſtices of Peace in their ſeverall Limits doe take a ſtrict Monethly Account of the due Execution and Obſervation of theſe Ordinances.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>LONDON, Printed for <hi>Edw. Husband</hi> printer to the Honourable Houſe of Commons. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Parliamentary_ordinance">
+            <pb facs="tcp:187891:3"/>
+            <pb n="1" facs="tcp:187891:3"/>
+            <opener>
+               <dateline>
+                  <date>Die Sabbathi 6. Aprill, 1644.</date>
+               </dateline>
+            </opener>
+            <head type="sub">A Ordinance of the Lords and Commons aſſem<g ref="char:EOLhyphen"/>bled in Parliament, for the better Obſervation of the LORDS-DAY.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Oraſmuch as the Lords day, notwithſtand<g ref="char:EOLhyphen"/>ing ſeverall good Lawes heretofore made, hath been not only greatly prophaned, but divers ungodly Bookes have been publiſhed by the Prelaticall faction, againſt the Mo<g ref="char:EOLhyphen"/>rality of that Day, and to countenance the prophanation of the ſame, to the manifeſt indangering of Soules, prejudice of the true Religion, great diſhonour of Almighty God, and provocation of his juſt wrath and in<g ref="char:EOLhyphen"/>dignation againſt this Land; The Lords and Commons for remedy thereof, doe Order and Ordain, and be it Orde<g ref="char:EOLhyphen"/>red and Ordained, that all the Laws enacted, and in force, concerning the Obſervation of the Lords day, bee carefully put in execution; and that all and ſingular perſon and per<g ref="char:EOLhyphen"/>ſons whatſoever, ſhall on every Lords day, apply themſelves to the ſanctification of the ſame, by exerciſing themſelves thereon, in the duties of Piety and true Religion, publique<g ref="char:EOLhyphen"/>ly and privately: And that no perſon or perſons whatſoever, ſhall publiquely cry, ſhew forth, or expoſe to ſale any
+<pb n="2" facs="tcp:187891:4"/>Wares, Merchandizes, Fruit, Herbs, Goods, or Chattels whatſoever, upon the Lords-day, or any part therof; upon pain, that every perſon ſo offending ſhall forfeit the ſame Goods ſo cryed, ſhewed forth, or put to ſale: And that no perſon or perſons whatſoever, ſhall, without reaſonable cauſe for the ſame, Travell, carry Burthens, or do any world<g ref="char:EOLhyphen"/>ly labours or worke whatſoever, upon that day, or any part thereof; upon pain, that every one travelling contrary to the meaning of this Ordinance, ſhall forfeit for every of<g ref="char:EOLhyphen"/>fence, ten ſhillings of lawfull money; and that every per<g ref="char:EOLhyphen"/>ſon carrying any burthen, or doing any worldly labour or work, contrary to the meaning hereof, ſhall forfeir five ſhil<g ref="char:EOLhyphen"/>lings of like money for every ſuch offence. And bee it fur<g ref="char:EOLhyphen"/>ther Ordained, That no perſon or perſons ſhall hereafter upon the Lords day, uſe, exerciſe, keep, maintain, or be pre<g ref="char:EOLhyphen"/>ſent at any Wreſtlings, Shootings, Bowling, Ringing of Bells for pleaſure or paſtime, Maſque, Wake, otherwiſe called Feaſts, Church-Ale, Dancing, Games, Sport or pa<g ref="char:EOLhyphen"/>ſtime whatſoever; upon pain, that every perſon ſo offending, being above the age of fourteen yeares, ſhall loſe and for<g ref="char:EOLhyphen"/>feit five ſhillings for every ſuch offence. And be it further Ordained, that all and ſingular perſon and perſons, that have the care, government, tuition or education of any childe or children, under, or within the age of fourteen yeares, ſhall forfeit and loſe twelve pence for every of the ſaid offences that ſhall be committed by any ſuch child and children. And becauſe the prophanation of the Lords-day hath beene heretofore greatly occaſioned by May-poles (a Heatheniſh vanity, generally abuſed to ſuperſtition and wickedneſſe) The Lords and Commons doe further Order and Ordaine, that all and ſingular May-poles, that are, or ſhall be erected, ſhall be taken downe, and removed by the Conſtables, Bor<g ref="char:EOLhyphen"/>ſholders,
+<pb n="3" facs="tcp:187891:4"/>Tythingmen, petty Conſtables, and Churchwardens of the Pariſhes and places where the ſame be; and that no May-pole ſhall bee hereaf<g ref="char:EOLhyphen"/>ter ſet up, erected, or ſuffered to bee within this kingdome of <hi>England,</hi> or Dominion of <hi>Wales.</hi>
+            </p>
+            <p>And it is further Ordained, that if any of the ſaid Officers ſhall neglect to doe their Office in the premiſes, within one weeke after notice of this Or<g ref="char:EOLhyphen"/>dinance, every of them for ſuch neglect ſhall for<g ref="char:EOLhyphen"/>feit five ſhillings of lawfull moneys; and ſo from weeke to weeke, weekly five ſhillings more after<g ref="char:EOLhyphen"/>wards, till the ſaid May-pole ſhall bee taken downe and removed. And that if any Juſtice of the Peace of the County, or the chiefe Officer or Of<g ref="char:EOLhyphen"/>ficers, or any Juſtice of the Peace, of, or within any City, Burrough, or Towne-Corporate, where the ſaid offences ſhall bee committed upon his or their view, or confeſſion of the party, or proofe of any one or more witneſſes by oath (which the ſaid Juſtice, chiefe Officer or Officers, is by this Ordi<g ref="char:EOLhyphen"/>nance authoriſed to miniſter (ſhall find any per<g ref="char:EOLhyphen"/>ſon offending in the premiſes, the ſaid Iuſtice, or chiefe Officer or Officers, ſhall give warrant under his or their hand and ſeale, to the Conſtables or Churchwardens of the Pariſh or Pariſhes where ſuch offence ſhall bee committed, to ſeize the ſaid Goods, Cried, ſhewed forth, or put to ſale as afore<g ref="char:EOLhyphen"/>ſaid; and to leavy the ſaid other Forfeitures or pe<g ref="char:EOLhyphen"/>nalties by way of Diſtreſſe, and ſale of the Goods of every ſuch offender, rendring to the ſaid offen<g ref="char:EOLhyphen"/>ders the overplus of the Moneys raiſed thereby;
+<pb n="4" facs="tcp:187891:5"/>And in default of ſuch Diſtreſſe, or in caſe of in<g ref="char:EOLhyphen"/>ſufficiencie, or inabilitie of the offender to pay the ſaid Forfeitures or penalties, that the party offend<g ref="char:EOLhyphen"/>ing be ſet publiquely in the Stocks by the ſpace of three houres. And all and ſingular, the forfeitures or penalties aforeſaid, ſhall bee imployed and con<g ref="char:EOLhyphen"/>verted to the uſe of the poore of the Pariſh where the ſaid offences ſhall bee committed, ſaving only, that it ſhall and may bee lawfull, to and for any ſuch Juſtice, Mayor, or head Officer or Officers, out of the ſaid forfeitures or penalties, to reward any perſon or perſons that ſhall informe of any offence againſt this Ordinance, according to their diſcre<g ref="char:EOLhyphen"/>tions; ſo as ſuch reward exceed not the third part of the forfeiture or penalties.</p>
+            <p>And it is further Ordained by the ſaid Lords and Commons, that the Kings Declaration concerning obſerving of Wakes, and uſe of exerciſe and recrea<g ref="char:EOLhyphen"/>tion upon the Lords day, The Booke intituled, <hi>The Kings Majeſties Declaration to His Subjects, concern<g ref="char:EOLhyphen"/>ing lawfull Sports to bee uſed;</hi> and all other Books and Pamphlets that have been, or ſhall be written, printed or publiſhed againſt the Morality of the fourth Commandement, or of the Lords-day, or to countenance the prophanation thereof, be called in, ſeized and ſuppreſſed, and publiquely burnt, by the Juſtices of Peace, or ſome, or one of them, or by the chiefe Officer or Officers aforeſaid, in their ſeverall Limits, or by their VVarrant or Command.</p>
+            <pb n="5" facs="tcp:187891:5"/>
+            <p> Provided, and bee it Declared, That nothing in this Ordinance ſhall extend to the prohibiting of dreſſing of Meat in private Families, or the dreſ<g ref="char:EOLhyphen"/>ſing and ſale of Victuals in a moderate way in Innes or Victualling-Houſes, for the uſe of ſuch as otherwiſe cannot be provided for; or to the crying or ſelling Milke before Nine of the Clock in the Morning, or after Foure of the Clock in the After<g ref="char:EOLhyphen"/>noon, from the Tenth of <hi>September,</hi> till the Tenth of <hi>March:</hi> or before Eight of the Clocke in the Morning, or after five of the Clocke in the After<g ref="char:EOLhyphen"/>noon, from the Tenth of <hi>March,</hi> till the Tenth of <hi>September.</hi>
+            </p>
+            <p>And whereas there is great breach of the Sab<g ref="char:EOLhyphen"/>bath by Rogues, Vagabonds and Beggars; It is fur<g ref="char:EOLhyphen"/>ther Ordained, That the Lord Mayor of the City of <hi>London,</hi> and all Iuſtices of Peace, Conſtables, Churchwardens and other Officers and Miniſters whatſoever, ſhall from time to time cauſe all Lawes againſt Rogues, Vagabonds and Beggars, to be put in due execution; and take order that all Rogues, Vagabonds and Beggars, doe on every Sab<g ref="char:EOLhyphen"/>bath-day repaire to ſome Church or Chappell, and remaine there ſoberly and orderly during the time of Divine-Worſhip. And that all and ſingular perſon and perſons, that ſhall doe any thing in the execution of this Ordinance, ſhall bee pro<g ref="char:EOLhyphen"/>tected and ſaved harmleſſe by the Power and Au<g ref="char:EOLhyphen"/>thority of Parliament.</p>
+            <pb n="6" facs="tcp:187891:6"/>
+            <p> And be it further Ordained, That this Ordi<g ref="char:EOLhyphen"/>rance be Printed and publiſhed, and read in all Pa<g ref="char:EOLhyphen"/>niſh Churches and Chappels, before the Sermon in the Morning on ſome Lords-day before the firſt of <hi>May</hi> next, on the South-ſide of <hi>Trent,</hi> and be<g ref="char:EOLhyphen"/>fore the firſt of <hi>June</hi> next, on the North-ſide of <hi>Trent.</hi>
+            </p>
+            <closer>
+               <signed>H. Elſinge C. P. Dom. Com.</signed>
+            </closer>
+         </div>
+         <div type="Parliamentary_ordinance">
+            <pb n="7" facs="tcp:187891:6"/>
+            <opener>
+               <dateline>
+                  <date>Die Mercurii 22. Auguſt 1642.</date>
+               </dateline>
+            </opener>
+            <head>An Ordinance of the Lords and Commons aſſem<g ref="char:EOLhyphen"/>bled in Parliament, for the better Obſerving and Keeping a Monethly Faſt, within the King<g ref="char:EOLhyphen"/>dome of <hi>England,</hi> and Dominion of WALES.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the Kings moſt excellent Majeſty upon the requeſt of the Lords and Com<g ref="char:EOLhyphen"/>mons in this preſent Parliament aſſem<g ref="char:EOLhyphen"/>bled, and by and with their advice and conſent, conſidering the lamentable and diſtreſſed condition of his good Subjects in the Kingdome of <hi>Ireland;</hi> (that there might be a generall Humiliation of all the Eſtates of this Kingdome before Almighty God in Faſting and Prayer) was graciouſly pleaſed to command the keeping of a Month<g ref="char:EOLhyphen"/>ly Faſt; and to the end that all perſons might the better take notice thereof (and to leave ſuch without excuſe, as ſhould not duly keep and obſerve the ſame) did afterward by his Proclamation of the eighth of <hi>January</hi> 1641. appoint that the ſame ſhould be generally, publikely, &amp; ſolemnly holden, and kept, as well by abſtinence from food, as by publike prayers, preaching, and hearing of the Word of God, and other Religious and holy duties, in all Cathedralls, Colle<g ref="char:EOLhyphen"/>giate, and Pariſh Churches, and Chappells, within the
+<pb n="8" facs="tcp:187891:7"/>Kingdome of <hi>England</hi> and Dominion of <hi>Wales,</hi> (without any exception) on the laſt Wedneſday of every Moneth, to continue during the troubles in the ſaid Kingdome of <hi>Ire<g ref="char:EOLhyphen"/>land:</hi> All which his Majeſty did ſtraightly charge and command, ſhould be reverently and devoutly performed by all his Subjects, as they deſire the bleſſing of Almighty God, and would avoyd his heavy indignation againſt this Land and people; and upon pain of ſuch puniſhments as may juſt<g ref="char:EOLhyphen"/>ly be inflicted upon all ſuch as ſhall contemne or neglect ſo Religious a worke and duty.</p>
+            <p>And whereas the Lords and Commons in both Houſes of Parliament, have received divers informations from ſeverall parts of this Kingdome and Dominion of <hi>Wales,</hi> of the great neglect of the due obſervation and keeping of the ſaid Faſt upon the dayes appointed, and of the prophanations of the ſame, by many irreligious, ill-affected, looſe, and ſcan<g ref="char:EOLhyphen"/>dalous perſons, as well of the Clergie as others, who are ſo far from afficting their ſoules, and looſing the bands of wic<g ref="char:EOLhyphen"/>kedneſſe, as that they provoke the wrath of Almighty God, and make ſo pious a meanes to procure his bleſſings, the oc<g ref="char:EOLhyphen"/>caſion of greater Judgements.</p>
+            <p>For the prevention whereof for the time to come, the Lords and Commons doe order, declare, ordain, that in all and every the Cathedrals, Collegiate, and Pariſh Churches, and Chappels within the Kingdome of <hi>England</hi> and Do<g ref="char:EOLhyphen"/>minion of <hi>Wales,</hi> (without any exception) upon every Lords day, next and immediately before any the dayes appointed for the ſaid publike Faſt, the Parſon, Vicar, Cu<g ref="char:EOLhyphen"/>rate, or Miniſter, that upon that day ſhall officiate, or exer<g ref="char:EOLhyphen"/>ciſe in any of the ſaid Cathedralls, Collegiate, Pariſh Chur<g ref="char:EOLhyphen"/>ches or Chappells, ſhall give publike notice in every of the ſaid Cathedralls, Collegiate, Pariſh Churches or Chappells
+<pb n="9" facs="tcp:187891:7"/>reſpectively, of the Faſt day next enſuing, immediately af<g ref="char:EOLhyphen"/>ter Sermon, or prayer ended in the forenoon, before the Congregation be diſmiſſed, earneſtly exhorting and per<g ref="char:EOLhyphen"/>ſwading all the people to the ſolemne due keeping and re<g ref="char:EOLhyphen"/>ligious obſervation of the whole day appointed for the ſaid Faſt, and that they would repair to ſome Church or Chap<g ref="char:EOLhyphen"/>pell, there diligently and reverently to attend all ſuch holy duties as ſhall be uſed in the obſervance of the ſame; that they forbear to uſe all manner of ſports and paſtimes what<g ref="char:EOLhyphen"/>ſoever, and their ordinary Trades and Callings upon the ſaid day, as well Carriers, Waggoners, Carters, Waynmen, Drovers, Butchers, Huckſters, Shop-keepers, Labourers, or any others uſing any Art, Trade, Myſtery or manuall Oc<g ref="char:EOLhyphen"/>cupation whatſoever, and that all Vintners, Taverners, Ale<g ref="char:EOLhyphen"/>houſe-keepers, and Keepers of Victualing-houſes, doe for<g ref="char:EOLhyphen"/>beare to keep open their doores, Bulks, or Shops, or to ſell or utter (except in caſes of extreame neceſſity) any Wine, Beere, Ale or victuall, till the publike exerciſes and religi<g ref="char:EOLhyphen"/>ous duties of that day in the reſpective Cathedralls, Colle<g ref="char:EOLhyphen"/>giate, Pariſh Churches and Chappells be paſt and over.</p>
+            <p>And laſtly all and every the Juſtices of the Peace, May<g ref="char:EOLhyphen"/>ors, Bayliffs, Conſtables, Church-wardens, and other Offi<g ref="char:EOLhyphen"/>cers inhabiting or reſiding within the limits or precincts of any ſuch Cathedrall, Collegiate, Pariſh Church or Chap<g ref="char:EOLhyphen"/>pell, are hereby required to take ſpeciall notice as well of ſuch Parſon, Vicar, Curate, or other Miniſter that ought to Officiate in any of the ſaid Cathedralls, Collegiate, and Pariſh Churches or Chappells, upon any ſuch day appoin<g ref="char:EOLhyphen"/>ted for the ſaid Faſt, that ſhall either refuſe or neglect to doe the ſame, or not do or cauſe the ſame to be done in that religious and ſolemne manner as it ought to be, or that ſhall refuſe to give notice of the Faſt day at the time and in man<g ref="char:EOLhyphen"/>ner
+<pb n="10" facs="tcp:187891:8"/>as aforeſaid, and forthwith to return their names, and the names of all ſuch (from time to time) as ſhall wilfully offend herein, in contempt of the Lawes, his Majeſty, and both Houſes of Parliament, unto ſome one or more of the Knights, Citizens, or Burgeſſes that ſerve for the County where ſuch offence is or ſhall be committed, that ſome ſpeedy courſe may be taken for the ſevere puniſhing of ſuch as ſhall offend herein, according to the Lawes.</p>
+            <closer>
+               <signed>Hen. Elſynge, Cler. Parl. Dom. Com.</signed>
+            </closer>
+         </div>
+         <div type="Parliamentary_ordinance">
+            <opener>
+               <dateline>
+                  <date>24. Aprill. 1643.</date>
+               </dateline>
+            </opener>
+            <p>WHereas the Lords and Commons aſſembled in Parliament have made an Ordinance for the more ſtrict and ſolemne keeping of the dayes of publike Faſt, which are not by all perſons duly obſerved, even in theſe times of publike cala<g ref="char:EOLhyphen"/>mity, to the great diſhonour of God, and the contempt of the Authority of both Houſes of Parliament. Now that more particular notice may be given unto all ſuch as ſhall offend herein, before any exemplary puniſhment be infli<g ref="char:EOLhyphen"/>cted upon them; It is Ordered by the Commons now Aſ<g ref="char:EOLhyphen"/>ſembled in Parliament, That all Conſtables (or their De<g ref="char:EOLhyphen"/>puties) ſhall the day before every publike Faſt, repair to e<g ref="char:EOLhyphen"/>very Houſe within their ſeverall and reſpective liberties, and charge all perſons, That they ſtrictly obſerve the Faſt, according to the directions in the ſaid Ordinance.</p>
+            <p>And they ſhall upon the ſaid dayes of the publike Faſt, walk through their ſaid liberties, diligently ſearching for, and taking notice of all perſons, who either by following their work of their calling, or ſitting in Taverns, Victual<g ref="char:EOLhyphen"/>ling
+<pb n="11" facs="tcp:187891:8"/>or Alchouſes, or any other wayes ſhall not duly ob<g ref="char:EOLhyphen"/>ſerve the ſame; And they are hereby required to returne the Names of all ſuch perſons as they ſhall find ſo offending, as alſo ſuch Informations as they ſhall receive againſt any o<g ref="char:EOLhyphen"/>ther perſons within their liberties, guilty of the like offence unto the Committee for Examinations, that ſo they may be proceeded againſt for the contempt of the ſaid Ordi<g ref="char:EOLhyphen"/>nance; And all Conſtables are to obſerve theſe directions from time to time, ſo long as the ſaid publique Faſt ſhall be kept, without expecting any further Order.</p>
+            <closer>
+               <signed>Hen. Elſynge, Cler. Parl. Dom. Com.</signed>
+            </closer>
+         </div>
+         <div type="Parliamentary_ordinance">
+            <opener>
+               <dateline>
+                  <date>2. Decembris. 1646.</date>
+               </dateline>
+            </opener>
+            <head>An Ordinance of the Lords and Commons aſſem<g ref="char:EOLhyphen"/>bled in Parliament for the better Obſervation of the Monthly Faſt.</head>
+            <p>THe Lords and Commons in Parliament aſſembled, Taking notice of the great neglect and prophanati<g ref="char:EOLhyphen"/>on of the Monthly Faſt in diverſe places of this Kingdome, doe for prevention thereof in time to come. Order and Ordaine, and be it Ordained by the ſaid Lords and Commons, that all Juſtices of the Peace, May<g ref="char:EOLhyphen"/>ors, Bayliffes, Conſtables, and other Officers and Miniſters whatſoever in their reſpective places ſhall put in Execution all Orders, and Ordinances of Parliament heretofore made for the due obſervation of the ſaid monthly Faſt, and are hereby authorized and required to uſe and exerciſe the ſame power, and to inflict penalties upon the offenders therein, in ſuch manner and form as is limited and appointed by any
+<pb n="12" facs="tcp:187891:9"/>Statute, Law, Order, or Ordinance whatſoever now in force for the Sanctification of the Lords day, or againſt the pro<g ref="char:EOLhyphen"/>phanation thereof: And for the better incouragement of all ſuch perſons as have or ſhall teſtifie their good affecti<g ref="char:EOLhyphen"/>ons to the State by their readineſſe in obſerving and putting in Execution of this and other the Ordinances of this Par<g ref="char:EOLhyphen"/>liament, and for prevention of cauſeleſſe and contentious ſuits againſt them; It is further Ordained by the ſaid Lords and Commons that if any Action, Bill, Plaint or Suite up<g ref="char:EOLhyphen"/>on the Caſe, Treſpaſſe, Battery, or falſe Impriſonment now be or hereafter ſhall be brought, for or concerning any mat<g ref="char:EOLhyphen"/>ter, cauſe, or thing done, or to be done hereafter by any Perſon or Perſons whatſoever, by Vertue of any Ordinance of Parliament or by any Perſon or Perſons in their ayde and aſſiſtance or by their Commandement, according to any ſuch Ordinance of Parliament, the ſaid Action, Bill, Plaint or Suite ſhall be layed within the County where the Treſpas or Fact was or ſhall be done, &amp; committed &amp; not elſewhere; and that it ſhall be lawfull to and for all and every Perſon, and Perſons aforeſaid to plead thereunto the Generall iſſue that he or they are not Guilty, And for their Juſtification to give in Evidence to the Jury which ſhall try the ſame, any Ordinance, or Ordinances of Parliament which they or any of them ſhall produce, by vertue whereof the Fact Complai<g ref="char:EOLhyphen"/>ned of was done or Committed. And that if upon the Tryall of any ſuch Action, Bil, Plaint, or Suit the Plantiff or Plain<g ref="char:EOLhyphen"/>tiffs therein ſhall not prove to the Jury which ſhall try the ſame, that the Treſpaſs, Battery, Impriſonment, or other Fact or Cauſe of his, her, or their ſaid Action, Bill, Plaint, or Suit was or were, had, made, committed, or done, with<g ref="char:EOLhyphen"/>in the County wherein ſuch Action, Bill, Plaint, or Suit, is or ſhall be layed, That then in every ſuch caſe the Jury
+<pb n="13" facs="tcp:187891:9"/>which ſhall Try the ſame, ſhall find the Defendant or De<g ref="char:EOLhyphen"/>fendants in every ſuch Action, Bill, Plaint or Suit not Guil<g ref="char:EOLhyphen"/>ty without having regard or reſpect to any evidence given by the Plaintiff or Plaintiffs therein touching the Treſpaſs, Battery, Impriſonment, or other Cauſe for which the ſame Action, Bill, Plaint, or Suit, is or ſhall be Brought: And if the Verdit ſhall Paſſe with the Defendant or Defendants in any ſuch Action, Bill, plaint, or Suit, or the plaintiff or plaintiffs therein become Non-ſuits or ſuffer any diſcon<g ref="char:EOLhyphen"/>tinuance thereof, that in every ſuch Caſe the Juſtices, or Ju<g ref="char:EOLhyphen"/>ſtice, or ſuch other Judge, before whom the ſaid Matter ſhall be tryed, ſhall by force, and vertue of this Ordinance allow unto the Defendant, or Defendants, his, or their dou<g ref="char:EOLhyphen"/>ble Coſts, which he or they ſhall have ſuſteined by reaſon of their wrongfull vexation in Defence of the ſaid Action, or Suit, for which the ſaid Defendant or Defendants ſhall have remedy as in other Caſes, where Coſts, by the Laws of the Realm are given to the Defendants.</p>
+            <closer>
+               <signed>Hen. Elſynge, Cler. Parl. Dom. Com.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:187891:10"/>
+            <pb facs="tcp:187891:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
